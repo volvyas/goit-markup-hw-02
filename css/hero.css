@@ -1,0 +1,32 @@
+.hero {
+    background-color: #2E2F42;
+}
+
+#hero > button {
+    width: 169;
+    height: 56;
+    max-width: 169px;
+    padding-top: 16px;
+    padding-right: 32px;
+    padding-bottom: 16px;
+    padding-left: 32px;
+    opacity: 1;
+    border-radius: 4px;
+    background-color: #4D5AE5;
+    color: #FFF;
+
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 4%;
+    vertical-align: middle;
+
+}
+
+h1 {
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    letter-spacing: 2%;
+    text-align: center;
+}

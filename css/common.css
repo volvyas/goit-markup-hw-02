@@ -1,0 +1,37 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #FFF;
+}
+
+button {
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #404BBF;
+}
+
+a:hover {
+    color: #404BBF;
+}
+
+a {
+    color: #4D5AE5;
+    text-decoration: none;
+}
+
+.logo {
+    text-transform: uppercase;
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 3%;
+    text-transform: uppercase;
+    color:#2E2F42
+
+}
+
+.logo-accent {
+    color: #4D5AE5
+}

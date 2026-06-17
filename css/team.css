@@ -1,0 +1,38 @@
+#team {
+    background: #F4F4FD
+}
+
+#team li {
+    background: #FFF
+}
+
+#team h2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 2%;
+    text-align: center;
+    color: #2E2F42
+}
+
+#team img {
+    width: 264px;
+}
+
+#team h3 {
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    text-align: center;
+    color: #2E2F42
+}
+
+#team p {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    text-align: center;
+    color: #434455
+}
