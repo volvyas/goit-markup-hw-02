@@ -1,0 +1,11 @@
+.nav-list li a {
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+
+.address li a {
+    color: #434455;
+    font-style: normal;
+}

@@ -1,18 +1,18 @@
 #team {
-    background: #F4F4FD
+    background: #F4F4FD;
+    letter-spacing: 2%;
+
 }
 
 #team li {
-    background: #FFF
+    background: #FFF;
 }
 
 #team h2 {
     font-weight: 700;
     font-size: 36px;
-    line-height: 40px;
-    letter-spacing: 2%;
+    line-height: 1.111;
     text-align: center;
-    color: #2E2F42
 }
 
 #team img {
@@ -21,18 +21,12 @@
 
 #team h3 {
     font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 2%;
+    line-height: 1.2;
     text-align: center;
-    color: #2E2F42
 }
 
 #team p {
-    font-family: Roboto;
     font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 2%;
+    line-height: 1.5;
     text-align: center;
-    color: #434455
 }

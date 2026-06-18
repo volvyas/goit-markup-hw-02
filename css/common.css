@@ -1,6 +1,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     color: #FFF;
+    background-color: #FFF;
 }
 
 button {
@@ -16,7 +17,6 @@ a:hover {
 }
 
 a {
-    color: #4D5AE5;
     text-decoration: none;
 }
 
@@ -25,13 +25,21 @@ a {
     font-family: Raleway;
     font-weight: 700;
     font-size: 18px;
-    line-height: 24px;
+    line-height: 1.333;
     letter-spacing: 3%;
     text-transform: uppercase;
-    color:#2E2F42
+    color: #2E2F42
 
 }
 
 .logo-accent {
     color: #4D5AE5
+}
+
+.navy-color {
+    color: #2E2F42
+}
+
+.slate-color {
+    color: #434455
 }

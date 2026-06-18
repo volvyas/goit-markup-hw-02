@@ -3,8 +3,8 @@
 }
 
 #hero > button {
-    width: 169;
-    height: 56;
+    width: 169px;
+    height: 56px;
     max-width: 169px;
     padding-top: 16px;
     padding-right: 32px;
@@ -16,17 +16,16 @@
     color: #FFF;
 
     font-weight: 500;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 4%;
     vertical-align: middle;
 
 }
 
 h1 {
-    font-family: Roboto;
     font-weight: 700;
     font-size: 56px;
-    line-height: 60px;
+    line-height: 1.071;
     letter-spacing: 2%;
     text-align: center;
 }
