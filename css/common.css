@@ -1,6 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
-    color: #FFF;
+    color: #434455;
     background-color: #FFF;
 }
 
@@ -26,14 +26,14 @@ a {
     font-weight: 700;
     font-size: 18px;
     line-height: 1.333;
-    letter-spacing: 3%;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2E2F42
+    color: #f4f4fd
 
 }
 
 .logo-accent {
-    color: #4D5AE5
+    color: #4d5ae5
 }
 
 .navy-color {
@@ -42,4 +42,8 @@ a {
 
 .slate-color {
     color: #434455
+}
+
+ul {
+    list-style: none;
 }

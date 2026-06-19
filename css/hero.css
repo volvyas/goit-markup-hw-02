@@ -2,30 +2,26 @@
     background-color: #2E2F42;
 }
 
-#hero > button {
-    width: 169px;
-    height: 56px;
-    max-width: 169px;
-    padding-top: 16px;
-    padding-right: 32px;
-    padding-bottom: 16px;
-    padding-left: 32px;
+.hero-order-button {
     opacity: 1;
-    border-radius: 4px;
     background-color: #4D5AE5;
     color: #FFF;
 
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 2%;
+    letter-spacing: 0.04em;
     vertical-align: middle;
+}
 
+.hero-order-button:focus {
+    background-color: #404BBF;
 }
 
 h1 {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.071;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     text-align: center;
+    color: #ffff;
 }
