@@ -17,7 +17,11 @@
     background-color: #404BBF;
 }
 
-h1 {
+.hero-order-button:hover {
+    background-color: #404BBF;
+}
+
+hero-header {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.071;
